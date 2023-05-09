@@ -1,0 +1,2 @@
+Error: .github#L1
+cicirello/jacoco-badge-generator@v2 is not allowed to be used in kpmg-us/javasimpleapplicationcicd1. Actions in this workflow must be: within a repository that belongs to your Enterprise account, created by GitHub, verified in the GitHub Marketplace, or matching the following: reviewdog/action-black@*, NuGet/setup-nuget@*, julia-actions/setup-julia@*, peter-evans/create-or-update-comment@v2, tspascoal/get-user-teams-membership@*.
